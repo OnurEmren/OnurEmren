@@ -5,8 +5,11 @@ I'm Onur Emren. I am at first year computer programming student :clipboard:. My 
 ## My Swift Projects :iphone: :
 
 **Calculate Note 1**
+
 CalculateNote, my first application on the AppStore, was developed for Turkish and English teachers. With this application, you can get and save the average of exam scores with a single click. The application is available free of charge and without advertising.
 
+
+<img width="175" alt="CalculateNote" src="https://github.com/OnurEmren/OnurEmren/assets/98044736/2c8c1d84-3094-40d2-a33d-20b4ab89e6b2">
 
 
 **HackingWithSwift Project 1**

@@ -1,6 +1,5 @@
 
 # Hello Everyone  :wave:
-I'm Onur Emren. I am at first year computer programming student :clipboard:. My software trainings and projects date back to earlier times. I have been taking trainings and developing mobile applications since 2020. You can review my sample projects and give me feedback :warning: . Besides Kotlin, I also started to produce Swift projects.
 
 ## My Swift Projects :iphone: :
 
